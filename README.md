@@ -15,7 +15,7 @@ A random password generation website.
 https://dommy99.github.io/Pass-gen/
 
 Image
-![alt text](pass-gen\assets\images\gen pic.JPG)
+![alt text](assets\gen.JPG)
 
 ## Contribution
 
